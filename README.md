@@ -14,7 +14,6 @@ The given task is to create a Price Card using React JS.
 Please refer the following files for Source Code:
 
 index.html
-src/Components/Card.jsx
-src/Components/CardContainer.jsx
+src/Components/Home.jsx
 src/assets/styles/style.css
 Thankyou and Awaiting Feedback.
