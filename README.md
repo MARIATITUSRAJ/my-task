@@ -35,5 +35,21 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Currently, two official plugins are available:
 
+<<<<<<< HEAD
 @vitejs/plugin-react uses Babel for Fast Refresh
 @vitejs/plugin-react-swc uses SWC for Fast Refresh
+=======
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+This Repository is created to submitting my task from React JS Day 2 session.
+
+The given task is to create a Price Card using React JS.
+
+Please refer the following files for Source Code:
+
+index.html
+src/Components/Home.jsx
+src/assets/styles/style.css
+Thankyou and Awaiting Feedback.
+>>>>>>> 107867970e6addd5ea398da7efc6385ab328272e
