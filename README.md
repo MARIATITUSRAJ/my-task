@@ -1,26 +1,24 @@
- # Shopping Cart Task
+# Price Card List
 
-React+Vite
-Shopping Cart application build in HTML+CSS+Bootstrap+React.js
+Price Card List in HTML5, CSS3,Bootstrap5 and Reactjs-vite
+This project implements a price card list using HTML, CSS, and React. It showcases a simple yet elegant layout for displaying pricing information for various products or services.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Display multiple price cards with details.
+Each price card includes information such as product name, price, features, and a call-to-action button.
+Responsive design for optimal viewing across different devices.
+Technologies Used
+HTML: Used for structuring the markup of the price card list.
+CSS: Employed for styling the price cards and making them visually appealing.
+React: Utilized for building the interactive components and managing state.
+Installation
+Clone the repository:
 
-Currently, two official plugins are available:
+Open your web browser and navigate to http://localhost:3000 to view the price card list.
 
-@vitejs/plugin-react uses Babel for Fast Refresh
-@vitejs/plugin-react-swc uses SWC for Fast Refresh
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-This Repository is created to submitting my task from React JS Day 2 session.
-
-The given task is to create a Price Card using React JS.
-
-Please refer the following files for Source Code:
-
-index.html
-src/Components/Home.jsx
-src/assets/styles/style.css
-Thankyou and Awaiting Feedback.
-
+Structure
+public/: Contains the HTML template and other static assets.
+src/: Contains the React components.
+components/: Includes individual components for the price cards.
+App.js: Main component that renders the price card list.
+App.css: CSS styles for the price cards.
